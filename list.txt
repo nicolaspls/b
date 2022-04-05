@@ -1,2 +1,1 @@
-https://smtown.com/
-
+https://smtown-cdn.smtown.com/
