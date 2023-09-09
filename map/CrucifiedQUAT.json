@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300000,
+  "changelist": 300,
+  "urls": {
+    "jmcs://jd-contents/CrucifiedQUAT/CrucifiedQUAT_ULTRA.webm": "https://cdn.glitch.com/c6807563-9703-4452-bd7b-b06e822ec772%2FCrucifiedQUAT_ULTRA.webm?v=1617292804642",
+    "jmcs://jd-contents/CrucifiedQUAT/CrucifiedQUAT_HIGH.webm": "https://cdn.glitch.com/c6807563-9703-4452-bd7b-b06e822ec772%2FCrucifiedQUAT_HIGH.webm?v=1617292115368",
+    "jmcs://jd-contents/CrucifiedQUAT/CrucifiedQUAT_MID.webm": "https://cdn.glitch.com/c6807563-9703-4452-bd7b-b06e822ec772%2FCrucifiedQUAT_MID.webm?v=1617291618337",
+    "jmcs://jd-contents/CrucifiedQUAT/CrucifiedQUAT_LOW.webm": "https://cdn.glitch.com/c6807563-9703-4452-bd7b-b06e822ec772%2FCrucifiedQUAT_LOW.webm?v=1617290808522",
+    "jmcs://jd-contents/CrucifiedQUAT/CrucifiedQUAT.ogg": "https://cdn.glitch.com/c6807563-9703-4452-bd7b-b06e822ec772%2FCrucifiedQUAT.ogg?v=1617290709398"
+  }
+}

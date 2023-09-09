@@ -1,0 +1,12 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 466919,
+    "urls": {
+        "jmcs://jd-contents/GeraGeraPoORI/GeraGeraPoORI_ULTRA.webm": "https://cdn.glitch.com/3211fff3-f0e7-44ba-82a0-05eff5683c4e/GeraGeraPoORI_ULTRA.webm",
+        "jmcs://jd-contents/GeraGeraPoORI/GeraGeraPoORI_MID.webm": "https://cdn.glitch.com/3211fff3-f0e7-44ba-82a0-05eff5683c4e/GeraGeraPoORI_MID.webm",
+        "jmcs://jd-contents/GeraGeraPoORI/GeraGeraPoORI_LOW.webm": "https://cdn.glitch.com/3211fff3-f0e7-44ba-82a0-05eff5683c4e/GeraGeraPoORI_LOW.webm",
+        "jmcs://jd-contents/GeraGeraPoORI/GeraGeraPoORI_HIGH.webm": "https://cdn.glitch.com/3211fff3-f0e7-44ba-82a0-05eff5683c4e/GeraGeraPoORI_HIGH.webm",
+        "jmcs://jd-contents/GeraGeraPoORI/GeraGeraPoORI.ogg": "https://cdn.glitch.com/987fcfcc-18ca-4bb2-8005-77d9754b14a6%2FGeraGeraPoORI.ogg"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 280634,
+    "urls": {
+        "jmcs://jd-contents/DieYoungDLC/DieYoungDLC_ULTRA.webm": "https://cdn.discordapp.com/attachments/797909702079152128/801853294027997224/DieYoungDLC_high.webm",
+        "jmcs://jd-contents/DieYoungDLC/DieYoungDLC_MID.webm": "https://cdn.discordapp.com/attachments/797909702079152128/801853037638975529/DieYoungDLC_mid.webm",
+        "jmcs://jd-contents/DieYoungDLC/DieYoungDLC_LOW.webm": "https://cdn.discordapp.com/attachments/797909702079152128/801852821614886912/DieYoungDLC_low.webm",
+        "jmcs://jd-contents/DieYoungDLC/DieYoungDLC_HIGH.webm": "https://cdn.discordapp.com/attachments/797909702079152128/801853294027997224/DieYoungDLC_high.webm",
+        "jmcs://jd-contents/DieYoungDLC/DieYoungDLC.ogg": "https://cdn.discordapp.com/attachments/797909702079152128/801852760194416640/DieYoungDLC.ogg"
+    }
+}

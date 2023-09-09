@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300,
+  "changelist": 480634,
+  "urls": {
+    "jmcs://jd-contents/WhatMakesYouBeautiful/WhatMakesYouBeautiful_ULTRA.webm": "https://cdn.glitch.com/3211fff3-f0e7-44ba-82a0-05eff5683c4e/WhatMakesYouBeautiful_ULTRA.webm",
+    "jmcs://jd-contents/WhatMakesYouBeautiful/WhatMakesYouBeautiful_MID.webm": "https://cdn.glitch.com/3211fff3-f0e7-44ba-82a0-05eff5683c4e/WhatMakesYouBeautiful_MID.webm",
+    "jmcs://jd-contents/WhatMakesYouBeautiful/WhatMakesYouBeautiful_LOW.webm": "https://cdn.glitch.com/3211fff3-f0e7-44ba-82a0-05eff5683c4e/WhatMakesYouBeautiful_LOW.webm",
+    "jmcs://jd-contents/WhatMakesYouBeautiful/WhatMakesYouBeautiful_HIGH.webm": "https://cdn.glitch.com/3211fff3-f0e7-44ba-82a0-05eff5683c4e/WhatMakesYouBeautiful_HIGH.webm",
+    "jmcs://jd-contents/WhatMakesYouBeautiful/WhatMakesYouBeautiful.ogg": "https://cdn.glitch.com/3211fff3-f0e7-44ba-82a0-05eff5683c4e/whatmakesyoubeautiful.ogg"
+  }
+}

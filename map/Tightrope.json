@@ -1,0 +1,12 @@
+{
+    "__class": "ContentAuthorizationEntry", 
+   "duration": 300, 
+   "changelist": 564656, 
+   "urls": {
+    "jmcs://jd-contents/Tightrope/Tightrope_ULTRA.webm": "https://cdn.glitch.com/c6807563-9703-4452-bd7b-b06e822ec772/tightrope_ULTRA.webm", 
+     "jmcs://jd-contents/Tightrope/Tightrope_MID.webm": "https://cdn.glitch.com/c6807563-9703-4452-bd7b-b06e822ec772/tightrope_MID.webm", 
+     "jmcs://jd-contents/Tightrope/Tightrope_LOW.webm": "https://cdn.glitch.com/c6807563-9703-4452-bd7b-b06e822ec772/tightrope_LOW.webm", 
+     "jmcs://jd-contents/Tightrope/Tightrope_HIGH.webm": "https://cdn.glitch.com/c6807563-9703-4452-bd7b-b06e822ec772/tightrope_ULTRA.webm", 
+     "jmcs://jd-contents/Tightrope/Tightrope.ogg": "https://cdn.glitch.com/c6807563-9703-4452-bd7b-b06e822ec772/tightrope.ogg"
+  }
+}

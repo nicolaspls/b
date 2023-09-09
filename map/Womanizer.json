@@ -1,0 +1,13 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300,
+  "changelist": 535312,
+  "urls": {
+    "jmcs://jd-contents/Womanizer/Womanizer_ULTRA.webm": "https://cdn.glitch.me/463d7047-9c68-495f-b9f4-e813e07c2a89/Womanizer_ULTRA.webm",
+    "jmcs://jd-contents/Womanizer/Womanizer_MID.webm": "https://cdn.glitch.me/463d7047-9c68-495f-b9f4-e813e07c2a89/Womanizer_MID.webm",
+    "jmcs://jd-contents/Womanizer/Womanizer_LOW.webm": "https://cdn.glitch.me/463d7047-9c68-495f-b9f4-e813e07c2a89/Womanizer_LOW.webm",
+    "jmcs://jd-contents/Womanizer/Womanizer_HIGH.webm": "https://cdn.glitch.me/463d7047-9c68-495f-b9f4-e813e07c2a89/Womanizer_HIGH.webm",
+    "jmcs://jd-contents/Womanizer/Womanizer.ogg": "https://cdn.glitch.me/463d7047-9c68-495f-b9f4-e813e07c2a89/Womanizer.ogg"
+  }
+}
+

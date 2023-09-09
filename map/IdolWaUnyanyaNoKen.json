@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300,
+  "changelist": 480634,
+  "urls": {
+    "jmcs://jd-contents/IdolWaUnyanyaNoKen/IdolWaUnyanyaNoKen_ULTRA.webm": "https://cdn.glitch.com/3211fff3-f0e7-44ba-82a0-05eff5683c4e%2Fidolwaunyanyanoken_high.webm",
+    "jmcs://jd-contents/IdolWaUnyanyaNoKen/IdolWaUnyanyaNoKen_MID.webm": "https://cdn.glitch.com/3211fff3-f0e7-44ba-82a0-05eff5683c4e%2Fidolwaunyanyanoken_high.webm",
+    "jmcs://jd-contents/IdolWaUnyanyaNoKen/IdolWaUnyanyaNoKen_LOW.webm": "https://cdn.glitch.com/3211fff3-f0e7-44ba-82a0-05eff5683c4e%2Fidolwaunyanyanoken_high.webm",
+    "jmcs://jd-contents/IdolWaUnyanyaNoKen/IdolWaUnyanyaNoKen_HIGH.webm": "https://cdn.glitch.com/3211fff3-f0e7-44ba-82a0-05eff5683c4e%2Fidolwaunyanyanoken_high.webm",
+    "jmcs://jd-contents/IdolWaUnyanyaNoKen/IdolWaUnyanyaNoKen.ogg": "https://cdn.glitch.com/3211fff3-f0e7-44ba-82a0-05eff5683c4e/idolwaunyanyanoken.ogg"
+  }
+}

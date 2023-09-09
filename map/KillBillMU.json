@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300,
+  "changelist": 480634,
+  "urls": {
+    "jmcs://jd-contents/KillBillMU/KillBillMU_ULTRA.webm": "https://cdn.glitch.me/bd4193f9-c53f-43c4-9ac9-4c7353b0645f/KillBill_ULTRA.webm",
+    "jmcs://jd-contents/KillBillMU/KillBillMU_MID.webm": "https://cdn.glitch.me/bd4193f9-c53f-43c4-9ac9-4c7353b0645f/KillBill_MID.webm",
+    "jmcs://jd-contents/KillBillMU/KillBillMU_LOW.webm": "https://cdn.glitch.me/bd4193f9-c53f-43c4-9ac9-4c7353b0645f/KillBill_LOW.webm",
+    "jmcs://jd-contents/KillBillMU/KillBillMU_HIGH.webm": "https://cdn.glitch.me/bd4193f9-c53f-43c4-9ac9-4c7353b0645f/KillBill_HIGH.webm",
+    "jmcs://jd-contents/KillBillMU/KillBillMU.ogg": "https://cdn.glitch.global/bd4193f9-c53f-43c4-9ac9-4c7353b0645f/killbillmu.ogg"
+  }
+}

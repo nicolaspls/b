@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300,
+  "changelist": 480634,
+  "urls": {
+    "jmcs://jd-contents/CarelessWhisper/CarelessWhisper_ULTRA.webm": "https://cdn.glitch.com/987fcfcc-18ca-4bb2-8005-77d9754b14a6%2FCarelessWhisper_ULTRA.webm",
+    "jmcs://jd-contents/CarelessWhisper/CarelessWhisper_MID.webm": "https://cdn.glitch.com/987fcfcc-18ca-4bb2-8005-77d9754b14a6%2FCarelessWhisper_MID.webm",
+    "jmcs://jd-contents/CarelessWhisper/CarelessWhisper_LOW.webm": "https://cdn.glitch.com/987fcfcc-18ca-4bb2-8005-77d9754b14a6%2FCarelessWhisper_LOW.webm",
+    "jmcs://jd-contents/CarelessWhisper/CarelessWhisper_HIGH.webm": "https://cdn.glitch.com/987fcfcc-18ca-4bb2-8005-77d9754b14a6%2FCarelessWhisper_HIGH.webm",
+    "jmcs://jd-contents/CarelessWhisper/CarelessWhisper.ogg": "https://cdn.glitch.com/987fcfcc-18ca-4bb2-8005-77d9754b14a6%2FCarelessWhisper.ogg"
+  }
+}

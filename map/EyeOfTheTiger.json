@@ -1,0 +1,13 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300,
+  "changelist": 535312,
+  "urls": {
+    "jmcs://jd-contents/EyeOfTheTiger/EyeOfTheTiger_ULTRA.webm": "https://cdn.glitch.com/8244bf6c-2e1d-40d5-b771-996e9b40f7d7%2Feye_high.webm?v=1611083164704",
+    "jmcs://jd-contents/EyeOfTheTiger/EyeOfTheTiger_MID.webm": "https://cdn.glitch.com/8244bf6c-2e1d-40d5-b771-996e9b40f7d7%2Feye_mid.webm?v=1611083011139",
+    "jmcs://jd-contents/EyeOfTheTiger/EyeOfTheTiger_LOW.webm": "https://cdn.glitch.com/8244bf6c-2e1d-40d5-b771-996e9b40f7d7%2Feye_low.webm?v=1611082913076",
+    "jmcs://jd-contents/EyeOfTheTiger/EyeOfTheTiger_HIGH.webm": "https://cdn.glitch.com/8244bf6c-2e1d-40d5-b771-996e9b40f7d7%2Feye_high.webm?v=1611083164704",
+    "jmcs://jd-contents/EyeOfTheTiger/EyeOfTheTiger.ogg": "https://cdn.glitch.com/8244bf6c-2e1d-40d5-b771-996e9b40f7d7%2Feye.ogg?v=1611082882075"
+  }
+}
+

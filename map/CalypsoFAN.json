@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300000,
+  "changelist": 300,
+  "urls": {
+    "jmcs://jd-contents/CalypsoFAN/CalypsoFAN_ULTRA.webm": "https://cdn.glitch.com/35b04ff9-e294-4f68-8d2c-16c90768acfd%2FCalypsoFAN_ULTRA.webm?v=1618501901831",
+    "jmcs://jd-contents/CalypsoFAN/CalypsoFAN_HIGH.webm": "https://cdn.glitch.com/35b04ff9-e294-4f68-8d2c-16c90768acfd%2FCalypsoFAN_ULTRA.webm?v=1618501901831",
+    "jmcs://jd-contents/CalypsoFAN/CalypsoFAN_MID.webm": "https://cdn.glitch.com/35b04ff9-e294-4f68-8d2c-16c90768acfd%2FCalypsoFAN_MID.webm?v=1618501836357",
+    "jmcs://jd-contents/CalypsoFAN/CalypsoFAN_LOW.webm": "https://cdn.glitch.com/35b04ff9-e294-4f68-8d2c-16c90768acfd%2FCalypsoFAN_LOW.webm?v=1618501743236",
+    "jmcs://jd-contents/CalypsoFAN/CalypsoFAN.ogg": "https://cdn.glitch.com/922d07fc-235c-4006-a1d2-cdae305c9fb6%2FCalypso.ogg?v=1609504815329"
+  }
+}

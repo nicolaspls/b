@@ -1,0 +1,12 @@
+{
+	"__class": "ContentAuthorizationEntry",
+	"duration": 300,
+	"changelist": 564656,
+	"urls": {
+		"jmcs://jd-contents/RiverSide/RiverSide_ULTRA.webm": "https://cdn.glitch.com/c6807563-9703-4452-bd7b-b06e822ec772/RiverSide_ULTRA.webm",
+		"jmcs://jd-contents/RiverSide/RiverSide_MID.webm": "https://cdn.glitch.com/c6807563-9703-4452-bd7b-b06e822ec772/RiverSide_MID.webm",
+		"jmcs://jd-contents/RiverSide/RiverSide_LOW.webm": "https://cdn.glitch.com/c6807563-9703-4452-bd7b-b06e822ec772/RiverSide_LOW.webm",
+		"jmcs://jd-contents/RiverSide/RiverSide_HIGH.webm": "https://cdn.glitch.com/c6807563-9703-4452-bd7b-b06e822ec772/RiverSide_HIGH.webm",
+		"jmcs://jd-contents/RiverSide/RiverSide.ogg": "https://cdn.glitch.com/c6807563-9703-4452-bd7b-b06e822ec772/RiverSide.ogg"
+	}
+}

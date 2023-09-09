@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300000,
+  "changelist": 300,
+  "urls": {
+    "jmcs://jd-contents/PoundTheAlarm/PoundTheAlarm_ULTRA.webm": "https://cdn.glitch.com/985cf90c-5f1b-4e8e-8d50-a623651a4b4b/PoundTheAlarm_ULTRA.webm",
+    "jmcs://jd-contents/PoundTheAlarm/PoundTheAlarm_HIGH.webm": "https://cdn.glitch.com/985cf90c-5f1b-4e8e-8d50-a623651a4b4b/PoundTheAlarm_HIGH.webm",
+    "jmcs://jd-contents/PoundTheAlarm/PoundTheAlarm_MID.webm": "https://cdn.glitch.com/985cf90c-5f1b-4e8e-8d50-a623651a4b4b/PoundTheAlarm_MID.webm",
+    "jmcs://jd-contents/PoundTheAlarm/PoundTheAlarm_LOW.webm": "https://cdn.glitch.com/985cf90c-5f1b-4e8e-8d50-a623651a4b4b/PoundTheAlarm_LOW.webm",
+    "jmcs://jd-contents/PoundTheAlarm/PoundTheAlarm.ogg": "https://cdn.glitch.com/985cf90c-5f1b-4e8e-8d50-a623651a4b4b/PoundTheAlarm.ogg"
+  }
+}

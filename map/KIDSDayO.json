@@ -1,0 +1,16 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 280634,
+    "urls": {
+        "jmcs://jd-contents/KIDSDayO/KIDSDayO_ULTRA.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FKIDSDayO_High.webm?v=1609879703515",
+        "jmcs://jd-contents/KIDSDayO/KIDSDayO_ULTRA.hd.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FKIDSDayO_High.webm?v=1609879703515",
+        "jmcs://jd-contents/KIDSDayO/KIDSDayO_MID.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FKIDSDayO_Mid.webm?v=1609879678705",
+        "jmcs://jd-contents/KIDSDayO/KIDSDayO_MID.hd.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FKIDSDayO_Mid.webm?v=1609879678705",
+        "jmcs://jd-contents/KIDSDayO/KIDSDayO_LOW.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FKIDSDayO_Low.webm?v=1609879655568",
+        "jmcs://jd-contents/KIDSDayO/KIDSDayO_LOW.hd.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FKIDSDayO_Low.webm?v=1609879655568",
+        "jmcs://jd-contents/KIDSDayO/KIDSDayO_HIGH.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FKIDSDayO_High.webm?v=1609879703515",
+        "jmcs://jd-contents/KIDSDayO/KIDSDayO_HIGH.hd.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FKIDSDayO_High.webm?v=1609879703515",
+        "jmcs://jd-contents/KIDSDayO/KIDSDayO.ogg": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FKIDSDayO.ogg?v=1609879645800"
+    }
+}

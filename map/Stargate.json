@@ -1,0 +1,12 @@
+{
+	"__class": "ContentAuthorizationEntry",
+	"duration": 300,
+	"changelist": 564656,
+	"urls": {
+		"jmcs://jd-contents/Stargate/Stargate_ULTRA.webm": "https://cdn.glitch.com/b7d7bb4d-002b-4b7f-afe2-06ce6ea0758e%2Fstargate_ULTRA.webm?v=1620571224752",
+		"jmcs://jd-contents/Stargate/Stargate_MID.webm": "https://cdn.glitch.com/b7d7bb4d-002b-4b7f-afe2-06ce6ea0758e%2Fstargate_MID.webm?v=1620571224752",
+		"jmcs://jd-contents/Stargate/Stargate_LOW.webm": "https://cdn.glitch.com/b7d7bb4d-002b-4b7f-afe2-06ce6ea0758e%2Fstargate_LOW.webm?v=1620571174380",
+		"jmcs://jd-contents/Stargate/Stargate_HIGH.webm": "https://cdn.glitch.com/b7d7bb4d-002b-4b7f-afe2-06ce6ea0758e%2Fstargate_ULTRA.webm?v=1620571224752",
+		"jmcs://jd-contents/Stargate/Stargate.ogg": "https://cdn.glitch.com/985cf90c-5f1b-4e8e-8d50-a623651a4b4b/Stargate.ogg"
+	}
+}

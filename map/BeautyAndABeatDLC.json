@@ -1,0 +1,12 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 280634,
+    "urls": {
+        "jmcs://jd-contents/BeautyAndABeatDLC/BeautyAndABeatDLC_ULTRA.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FBeautyAndABeatDLC_high.webm?v=1611246049334",
+        "jmcs://jd-contents/BeautyAndABeatDLC/BeautyAndABeatDLC_MID.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FBeautyAndABeatDLC_high.webm?v=1611246049334",
+        "jmcs://jd-contents/BeautyAndABeatDLC/BeautyAndABeatDLC_LOW.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FBeautyAndABeatDLC_high.webm?v=1611246049334",
+        "jmcs://jd-contents/BeautyAndABeatDLC/BeautyAndABeatDLC_HIGH.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FBeautyAndABeatDLC_high.webm?v=1611246049334",
+        "jmcs://jd-contents/BeautyAndABeatDLC/BeautyAndABeatDLC.ogg": "https://cdn.discordapp.com/attachments/797909702079152128/801848321991507968/BeautyAndABeatDLC.ogg"
+    }
+}

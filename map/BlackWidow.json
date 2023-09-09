@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300000,
+  "changelist": 300,
+  "urls": {
+    "jmcs://jd-contents/BlackWidow/BlackWidow_ULTRA.webm": "https://cdn.glitch.com/c6807563-9703-4452-bd7b-b06e822ec772%2FBlackWidow_ULTRA.webm?v=1619098595324",
+    "jmcs://jd-contents/BlackWidow/BlackWidow_HIGH.webm": "https://cdn.glitch.com/c6807563-9703-4452-bd7b-b06e822ec772%2FBlackWidow_HIGH.webm?v=1619098547310",
+    "jmcs://jd-contents/BlackWidow/BlackWidow_MID.webm": "https://cdn.glitch.com/c6807563-9703-4452-bd7b-b06e822ec772%2FBlackWidow_MID.webm?v=1619098498345",
+    "jmcs://jd-contents/BlackWidow/BlackWidow_LOW.webm": "https://cdn.glitch.com/c6807563-9703-4452-bd7b-b06e822ec772%2FBlackWidow_LOW.webm?v=1619098470330",
+    "jmcs://jd-contents/BlackWidow/BlackWidow.ogg": "https://cdn.glitch.com/c6807563-9703-4452-bd7b-b06e822ec772%2FBlackWidow.ogg?v=1619098460399"
+  }
+}

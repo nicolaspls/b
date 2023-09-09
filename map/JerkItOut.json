@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300,
+  "changelist": 480634,
+  "urls": {
+    "jmcs://jd-contents/JerkItOut/JerkItOut_ULTRA.webm": "https://cdn.glitch.me/400b93f9-6252-49f7-a431-19ee129f30c7/JerkItOut_ULTRA.webm",
+    "jmcs://jd-contents/JerkItOut/JerkItOut_MID.webm": "https://cdn.glitch.me/400b93f9-6252-49f7-a431-19ee129f30c7/JerkItOut_MID.webm",
+    "jmcs://jd-contents/JerkItOut/JerkItOut_LOW.webm": "https://cdn.glitch.me/400b93f9-6252-49f7-a431-19ee129f30c7/JerkItOut_LOW.webm",
+    "jmcs://jd-contents/JerkItOut/JerkItOut_HIGH.webm": "https://cdn.glitch.me/400b93f9-6252-49f7-a431-19ee129f30c7/JerkItOut_HIGH.webm",
+    "jmcs://jd-contents/JerkItOut/JerkItOut.ogg": "https://cdn.glitch.me/400b93f9-6252-49f7-a431-19ee129f30c7/JerkItOut.ogg"
+  }
+}

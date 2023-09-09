@@ -1,0 +1,13 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300,
+  "changelist": 535312,
+  "urls": {
+    "jmcs://jd-contents/Conversation/Conversation_ULTRA.webm": "https://cdn.glitch.me/400b93f9-6252-49f7-a431-19ee129f30c7/Conversation_ULTRA.webm",
+    "jmcs://jd-contents/Conversation/Conversation_MID.webm": "https://cdn.glitch.me/400b93f9-6252-49f7-a431-19ee129f30c7/Conversation_MID.webm",
+    "jmcs://jd-contents/Conversation/Conversation_LOW.webm": "https://cdn.glitch.me/400b93f9-6252-49f7-a431-19ee129f30c7/Conversation_LOW.webm",
+    "jmcs://jd-contents/Conversation/Conversation_HIGH.webm": "https://cdn.glitch.me/400b93f9-6252-49f7-a431-19ee129f30c7/Conversation_HIGH.webm",
+    "jmcs://jd-contents/Conversation/Conversation.ogg": "https://cdn.glitch.me/400b93f9-6252-49f7-a431-19ee129f30c7/Conversation.ogg"
+  }
+}
+

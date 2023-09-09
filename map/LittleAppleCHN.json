@@ -1,0 +1,13 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300,
+  "changelist": 535312,
+  "urls": {
+    "jmcs://jd-contents/LittleAppleCHN/LittleAppleCHN_ULTRA.webm": "https://cdn.glitch.global/ab9d240f-49f6-46e8-9fc8-07a2ada4ea78/LittleAppleCHN_ULTRA.webm",
+    "jmcs://jd-contents/LittleAppleCHN/LittleAppleCHN_MID.webm": "",
+    "jmcs://jd-contents/LittleAppleCHN/LittleAppleCHN_LOW.webm": "",
+    "jmcs://jd-contents/LittleAppleCHN/LittleAppleCHN_HIGH.webm": "",
+    "jmcs://jd-contents/LittleAppleCHN/LittleAppleCHN.ogg": "https://cdn.glitch.global/ab9d240f-49f6-46e8-9fc8-07a2ada4ea78/LittleAppleCHN.ogg"
+  }
+}
+

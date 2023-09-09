@@ -1,0 +1,12 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 280634,
+    "urls": {
+        "jmcs://jd-contents/CouldYouBeLoved/CouldYouBeLoved_ULTRA.webm": "https://cdn.glitch.com/5573d35e-ae47-4b48-9c9a-868f7dc8879c/384007d93ad9d78a196227cbf9914e9b.couldyoubeloved_ultra.webm?v=1601177712606",
+        "jmcs://jd-contents/CouldYouBeLoved/CouldYouBeLoved_MID.webm": "https://cdn.glitch.com/5573d35e-ae47-4b48-9c9a-868f7dc8879c/8e2f46d54863cd177ec9b170b5f8b3b7.couldyoubeloved_mid.webm?v=1601177459673",
+        "jmcs://jd-contents/CouldYouBeLoved/CouldYouBeLoved_LOW.webm": "https://cdn.glitch.com/5573d35e-ae47-4b48-9c9a-868f7dc8879c/6ceaefba4264c4559be1ee32db89cb57.couldyoubeloved_low.webm?v=1601177345508",
+        "jmcs://jd-contents/CouldYouBeLoved/CouldYouBeLoved_HIGH.webm": "https://cdn.glitch.com/5573d35e-ae47-4b48-9c9a-868f7dc8879c/9899d3c58e3d250f3d4b0c883fac6bdd.couldyoubeloved_high.webm?v=1601177670031",
+        "jmcs://jd-contents/CouldYouBeLoved/CouldYouBeLoved.ogg": "https://cdn.glitch.com/5573d35e-ae47-4b48-9c9a-868f7dc8879c/couldyoubeloved.ogg"
+    }
+}

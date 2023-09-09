@@ -1,0 +1,13 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300,
+  "changelist": 535312,
+  "urls": {
+    "jmcs://jd-contents/JDCGhoul/JDCGhoul_ULTRA.webm": "https://jdcn-switch.cdn.ubisoft.cn/private/map/JDCGhoul/JDCGhoul_ULTRA.webm/b2e74774e37e0b9299b92b4e023bc515.webm?auth=exp=1682706267~acl=/private/map/JDCGhoul/*~hmac=885cb67e4ed9f8829fab5495a29e755e63ac987a0696a0e48a8d3e70f718a348",
+    "jmcs://jd-contents/JDCGhoul/JDCGhoul_MID.webm": "https://jdcn-switch.cdn.ubisoft.cn/private/map/JDCGhoul/JDCGhoul_MID.webm/5b74643322528ea2a063c243fe71e1f7.webm?auth=exp=1682706267~acl=/private/map/JDCGhoul/*~hmac=885cb67e4ed9f8829fab5495a29e755e63ac987a0696a0e48a8d3e70f718a348",
+    "jmcs://jd-contents/JDCGhoul/JDCGhoul_LOW.webm": "https://jdcn-switch.cdn.ubisoft.cn/private/map/JDCGhoul/JDCGhoul_LOW.webm/d9b2dd47603e9616889cb065b0f26e99.webm?auth=exp=1682706267~acl=/private/map/JDCGhoul/*~hmac=885cb67e4ed9f8829fab5495a29e755e63ac987a0696a0e48a8d3e70f718a348",
+    "jmcs://jd-contents/JDCGhoul/JDCGhoul_HIGH.webm": "https://jdcn-switch.cdn.ubisoft.cn/private/map/JDCGhoul/JDCGhoul_HIGH.webm/614fbdaba8b1b5634a2dc24b5f605ab4.webm?auth=exp=1682706267~acl=/private/map/JDCGhoul/*~hmac=885cb67e4ed9f8829fab5495a29e755e63ac987a0696a0e48a8d3e70f718a348",
+    "jmcs://jd-contents/JDCGhoul/JDCGhoul.ogg": "https://jdcn-switch.cdn.ubisoft.cn/private/map/JDCGhoul/JDCGhoul.ogg/7953ed2159ecc115c08410ead8b48810.ogg?auth=exp=1682706267~acl=/private/map/JDCGhoul/*~hmac=885cb67e4ed9f8829fab5495a29e755e63ac987a0696a0e48a8d3e70f718a348"
+  }
+}
+

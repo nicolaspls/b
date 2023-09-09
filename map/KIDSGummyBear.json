@@ -1,0 +1,12 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 280634,
+    "urls": {
+        "jmcs://jd-contents/KIDSGummyBear/KIDSGummyBear_ULTRA.webm": "https://cdn.glitch.com/35b04ff9-e294-4f68-8d2c-16c90768acfd%2FKIDSGummyBear_ULTRA.webm?v=1617979238339",
+        "jmcs://jd-contents/KIDSGummyBear/KIDSGummyBear_MID.webm": "https://cdn.glitch.com/35b04ff9-e294-4f68-8d2c-16c90768acfd%2FKIDSGummyBear_MID.webm?v=1617979180333",
+        "jmcs://jd-contents/KIDSGummyBear/KIDSGummyBear_LOW.webm": "https://cdn.glitch.com/35b04ff9-e294-4f68-8d2c-16c90768acfd%2FKIDSGummyBear_LOW.webm?v=1617979109327",
+        "jmcs://jd-contents/KIDSGummyBear/KIDSGummyBear_HIGH.webm": "https://cdn.glitch.com/35b04ff9-e294-4f68-8d2c-16c90768acfd%2FKIDSGummyBear_ULTRA.webm?v=1617979238339",
+        "jmcs://jd-contents/KIDSGummyBear/KIDSGummyBear.ogg": "https://cdn.glitch.com/35b04ff9-e294-4f68-8d2c-16c90768acfd%2FKIDSGummyBear.ogg?v=1617979040892"
+    }
+}

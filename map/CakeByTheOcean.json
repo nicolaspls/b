@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300000,
+  "changelist": 300,
+  "urls": {
+    "jmcs://jd-contents/CakeByTheOcean/CakeByTheOcean_ULTRA.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FCakeByTheOcean_ULTRA.webm?v=1617358826215",
+    "jmcs://jd-contents/CakeByTheOcean/CakeByTheOcean_HIGH.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FCakeByTheOcean_HIGH.webm?v=1617358759163",
+    "jmcs://jd-contents/CakeByTheOcean/CakeByTheOcean_MID.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FCakeByTheOcean_MID.webm?v=1617358775527",
+    "jmcs://jd-contents/CakeByTheOcean/CakeByTheOcean_LOW.webm": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FCakeByTheOcean_LOW.webm?v=1617358748071",
+    "jmcs://jd-contents/CakeByTheOcean/CakeByTheOcean.ogg": "https://cdn.glitch.com/391f7295-e652-4714-99d3-aec558a1d20d%2FCakeByTheOcean.ogg?v=1617358725672"
+  }
+}

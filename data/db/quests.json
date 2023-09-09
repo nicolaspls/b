@@ -1,0 +1,28 @@
+{
+	"__class": "OnlineQuestDb",
+	"quests": [{
+		"__class": "OnlineQuest",
+		"assetUrls": {
+			"phoneImageURL": "https://jd-s3.akamaized.net/public/quests/29/quest_logo.png/338798c51107cf010220f72c654ca171.png",
+			"coverImageURL": "https://jd-s3.akamaized.net/public/quests/29/pc/quest_cover.tga.ckd/159924ac35e6a6a2c1f23da728d486cc.ckd",
+			"logoImageURL": "https://jd-s3.akamaized.net/public/quests/29/pc/quest_logo.tga.ckd/dbcd6b999232ab1e0abf5e21920472f0.ckd",
+			"logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/29/pc/quest_logo_shaded.tga.ckd/13f2bd9d8f3179633b563787d623185d.ckd"
+		},
+		"id": "1",
+		"locked": 0,
+		"playlist": ["CouldYouBeLoved", "Aquarius", "WhyOWhy"],
+		"title": "Love & Peace"
+	}, {
+		"__class": "OnlineQuest",
+		"assetUrls": {
+			"phoneImageURL": "https://jd-s3.akamaized.net/public/quests/27/quest_logo.png/bf3cec27e8de577f657208cfd51d932e.png",
+			"coverImageURL": "https://jd-s3.akamaized.net/public/quests/27/pc/quest_cover.tga.ckd/7091424e7cbb1da6b736bb7ffea9ff34.ckd",
+			"logoImageURL": "https://jd-s3.akamaized.net/public/quests/27/pc/quest_logo.tga.ckd/82b818785da971cbba0d262da0cd1a73.ckd",
+			"logoShadedImageURL": "https://jd-s3.akamaized.net/public/quests/27/pc/quest_logo_shaded.tga.ckd/ce1e9c6e49a146ff5222082d112e6b24.ckd"
+		},
+		"id": "2",
+		"locked": 0,
+		"playlist": ["JDCChickChick", "JDCSummerSweetie", "JDCHotPot"],
+		"title": "Chinese Hits"
+	}]
+}

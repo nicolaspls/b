@@ -1,0 +1,12 @@
+{
+	"__class" : "ContentAuthorizationEntry",
+	"duration" : 300,
+	"changelist" : 466919,
+	"urls" : {
+		"jmcs://jd-contents/MJLeaveMeAlone/MJLeaveMeAlone_ULTRA.webm" : "TBD",
+		"jmcs://jd-contents/MJLeaveMeAlone/MJLeaveMeAlone_MID.webm" : "TBD",
+		"jmcs://jd-contents/MJLeaveMeAlone/MJLeaveMeAlone_LOW.webm" : "TBD",
+		"jmcs://jd-contents/MJLeaveMeAlone/MJLeaveMeAlone_HIGH.webm" : "TBD",
+		"jmcs://jd-contents/MJLeaveMeAlone/MJLeaveMeAlone.ogg" : "TBD"
+	}
+}

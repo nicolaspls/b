@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300000,
+  "changelist": 300,
+  "urls": {
+    "jmcs://jd-contents/AmericanGirlDLC/AmericanGirlDLC_ULTRA.webm": "https://cdn.glitch.com/c6807563-9703-4452-bd7b-b06e822ec772%2FAmericanGirlDLC_HIGH.webm?v=1617139945321",
+    "jmcs://jd-contents/AmericanGirlDLC/AmericanGirlDLC_HIGH.webm": "https://cdn.glitch.com/c6807563-9703-4452-bd7b-b06e822ec772%2FAmericanGirlDLC_HIGH.webm?v=1617139945321",
+    "jmcs://jd-contents/AmericanGirlDLC/AmericanGirlDLC_MID.webm": "https://cdn.glitch.com/c6807563-9703-4452-bd7b-b06e822ec772%2FAmericanGirlDLC_MID.webm?v=1617139696328",
+    "jmcs://jd-contents/AmericanGirlDLC/AmericanGirlDLC_LOW.webm": "https://cdn.glitch.com/c6807563-9703-4452-bd7b-b06e822ec772%2FAmericanGirlDLC_LOW.webm?v=1617139225775",
+    "jmcs://jd-contents/AmericanGirlDLC/AmericanGirlDLC.ogg": "https://cdn.glitch.com/c6807563-9703-4452-bd7b-b06e822ec772%2FAmericanGirlDLC.ogg?v=1617139436652"
+  }
+}

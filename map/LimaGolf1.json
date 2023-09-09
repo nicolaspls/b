@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300000,
+  "changelist": 300,
+  "urls": {
+    "jmcs://jd-contents/LimaGolf1/LimaGolf1_ULTRA.webm": "https://cdn.glitch.com/985cf90c-5f1b-4e8e-8d50-a623651a4b4b/LimaGolf1_ULTRA.webm",
+    "jmcs://jd-contents/LimaGolf1/LimaGolf1_HIGH.webm": "https://cdn.glitch.com/985cf90c-5f1b-4e8e-8d50-a623651a4b4b/LimaGolf1_HIGH.webm",
+    "jmcs://jd-contents/LimaGolf1/LimaGolf1_MID.webm": "https://cdn.glitch.com/985cf90c-5f1b-4e8e-8d50-a623651a4b4b/LimaGolf1_MID.webm",
+    "jmcs://jd-contents/LimaGolf1/LimaGolf1_LOW.webm": "https://cdn.glitch.com/985cf90c-5f1b-4e8e-8d50-a623651a4b4b/LimaGolf1_LOW.webm",
+    "jmcs://jd-contents/LimaGolf1/LimaGolf1.ogg": "https://cdn.glitch.com/985cf90c-5f1b-4e8e-8d50-a623651a4b4b/LimaGolf1.ogg"
+  }
+}

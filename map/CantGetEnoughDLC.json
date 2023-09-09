@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300000,
+  "changelist": 300,
+  "urls": {
+    "jmcs://jd-contents/CantGetEnoughDLC/CantGetEnoughDLC_ULTRA.webm": "https://cdn.glitch.com/c6807563-9703-4452-bd7b-b06e822ec772%2FCantGetEnoughDLC_ULTRA.webm?v=1617293117970",
+    "jmcs://jd-contents/CantGetEnoughDLC/CantGetEnoughDLC_HIGH.webm": "https://cdn.glitch.com/c6807563-9703-4452-bd7b-b06e822ec772%2FCantGetEnoughDLC_high.webm?v=1617291954341",
+    "jmcs://jd-contents/CantGetEnoughDLC/CantGetEnoughDLC_MID.webm": "https://cdn.glitch.com/c6807563-9703-4452-bd7b-b06e822ec772%2FCantGetEnoughDLC_MID.webm?v=1617291694320",
+    "jmcs://jd-contents/CantGetEnoughDLC/CantGetEnoughDLC_LOW.webm": "https://cdn.glitch.com/c6807563-9703-4452-bd7b-b06e822ec772%2FCantGetEnoughDLC_LOW.webm?v=1617290797143",
+    "jmcs://jd-contents/CantGetEnoughDLC/CantGetEnoughDLC.ogg": "https://cdn.glitch.com/c6807563-9703-4452-bd7b-b06e822ec772%2FCantGetEnoughDLC.ogg?v=1617290719999"
+  }
+}

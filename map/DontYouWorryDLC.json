@@ -1,0 +1,12 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 280634,
+    "urls": {
+        "jmcs://jd-contents/DontYouWorryDLC/DontYouWorryDLC_ULTRA.webm": "https://cdn.glitch.com/253949fc-b561-4250-aa5b-b32da09824d2%2FDontYouWorry_ULTRA.webm?v=1615573376125",
+        "jmcs://jd-contents/DontYouWorryDLC/DontYouWorryDLC_MID.webm": "https://cdn.glitch.com/253949fc-b561-4250-aa5b-b32da09824d2%2FDontYouWorryDLC_MID.webm?v=1615573551157",
+        "jmcs://jd-contents/DontYouWorryDLC/DontYouWorryDLC_LOW.webm": "https://cdn.glitch.com/253949fc-b561-4250-aa5b-b32da09824d2%2FDontYouWorryDLC_LOW.webm?v=1615572871397",
+        "jmcs://jd-contents/DontYouWorryDLC/DontYouWorryDLC_HIGH.webm": "https://cdn.glitch.com/253949fc-b561-4250-aa5b-b32da09824d2%2FDontYouWorryDLC_HIGH.webm?v=1615573574829",
+        "jmcs://jd-contents/DontYouWorryDLC/DontYouWorryDLC.ogg": "https://cdn.glitch.com/253949fc-b561-4250-aa5b-b32da09824d2%2FDontYouWorryDLC_audio.ogg?v=1615573443702"
+    }
+}

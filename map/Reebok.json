@@ -1,0 +1,13 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300,
+  "changelist": 535312,
+  "urls": {
+    "jmcs://jd-contents/Reebok/Reebok_ULTRA.webm": "https://cdn.glitch.me/5f723157-3676-4102-a72b-6acbaa1c7923%2FReebok_ULTRA.webm",
+    "jmcs://jd-contents/Reebok/Reebok_MID.webm": "https://cdn.glitch.me/5f723157-3676-4102-a72b-6acbaa1c7923%2FReebok_MID.webm",
+    "jmcs://jd-contents/Reebok/Reebok_LOW.webm": "https://cdn.glitch.me/5f723157-3676-4102-a72b-6acbaa1c7923%2FReebok_LOW.webm",
+    "jmcs://jd-contents/Reebok/Reebok_HIGH.webm": "https://cdn.glitch.me/5f723157-3676-4102-a72b-6acbaa1c7923%2FReebok_HIGH.webm",
+    "jmcs://jd-contents/Reebok/Reebok.ogg": "https://cdn.glitch.me/5f723157-3676-4102-a72b-6acbaa1c7923%2FReebok.ogg"
+  }
+}
+

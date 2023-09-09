@@ -1,0 +1,12 @@
+{
+	"__class": "ContentAuthorizationEntry",
+	"duration": 300,
+	"changelist": 564656,
+	"urls": {
+		"jmcs://jd-contents/BailarCMU/BailarCMUWiiU_ULTRA.webm": "https://cdn.glitch.com/c6807563-9703-4452-bd7b-b06e822ec772/BailarCMU_ULTRA.webm",
+		"jmcs://jd-contents/BailarCMU/BailarCMUWiiU_MID.webm": "https://cdn.glitch.com/c6807563-9703-4452-bd7b-b06e822ec772/BailarCMU_MID.webm",
+		"jmcs://jd-contents/BailarCMU/BailarCMUWiiU_LOW.webm": "https://cdn.glitch.com/c6807563-9703-4452-bd7b-b06e822ec772/BailarCMU_LOW.webm",
+		"jmcs://jd-contents/BailarCMU/BailarCMUWiiU_HIGH.webm": "https://cdn.glitch.com/c6807563-9703-4452-bd7b-b06e822ec772/BailarCMU_HIGH.webm",
+		"jmcs://jd-contents/BailarCMU/BailarCMU.ogg": "https://cdn.glitch.com/c6807563-9703-4452-bd7b-b06e822ec772/BailarCMU.ogg"
+	}
+}

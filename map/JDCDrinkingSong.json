@@ -1,0 +1,12 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 280634,
+    "urls": {
+        "jmcs://jd-contents/JDCDrinkingSong/JDCDrinkingSong_ULTRA.webm": "https://cdn.glitch.com/3211fff3-f0e7-44ba-82a0-05eff5683c4e%2Fclean.JDCDrinkingSong_ULTRA.webm",
+        "jmcs://jd-contents/JDCDrinkingSong/JDCDrinkingSong_MID.webm": "https://cdn.glitch.com/3211fff3-f0e7-44ba-82a0-05eff5683c4e%2Fclean.JDCDrinkingSong_MID.webm",
+        "jmcs://jd-contents/JDCDrinkingSong/JDCDrinkingSong_LOW.webm": "https://cdn.glitch.com/3211fff3-f0e7-44ba-82a0-05eff5683c4e%2Fclean.JDCDrinkingSong_LOW.webm",
+        "jmcs://jd-contents/JDCDrinkingSong/JDCDrinkingSong_HIGH.webm": "https://cdn.glitch.com/3211fff3-f0e7-44ba-82a0-05eff5683c4e%2Fclean.JDCDrinkingSong_HIGH.webm",
+        "jmcs://jd-contents/JDCDrinkingSong/JDCDrinkingSong.ogg": "https://cdn.glitch.com/3211fff3-f0e7-44ba-82a0-05eff5683c4e/JDCDrinkingSong.ogg"
+    }
+}

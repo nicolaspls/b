@@ -1,0 +1,9 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300000,
+  "changelist": 300,
+  "urls": {
+    "jmcs://jd-contents/BadAssPrincessKids/BadAssPrincessKids_ULTRA.webm": "https://jd-s3.akamaized.net/private/map/BadAssPrincessKids/BadAssPrincessKids_ULTRA.webm/29c4e41ad5a496ddf1d7bc161cc50923.webm?auth=exp=1676178863~acl=/private/map/BadAssPrincessKids/*~hmac=4c655670cbe2a1ca67062dedcad4df6f75a82897692833ecdb9adf048978b211",
+    "jmcs://jd-contents/BadAssPrincessKids/BadAssPrincessKids.ogg": "https://jd-s3.akamaized.net/private/map/BadAssPrincessKids/BadAssPrincessKids.ogg/4d6ac91ac4a0bbc3acb3f2cec87ce799.ogg?auth=exp=1676178863~acl=/private/map/BadAssPrincessKids/*~hmac=4c655670cbe2a1ca67062dedcad4df6f75a82897692833ecdb9adf048978b211"
+  }
+}

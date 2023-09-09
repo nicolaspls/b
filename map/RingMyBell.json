@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300,
+  "changelist": 480634,
+  "urls": {
+    "jmcs://jd-contents/RingMyBell/RingMyBell_ULTRA.webm": "https://cdn.glitch.com/987fcfcc-18ca-4bb2-8005-77d9754b14a6%2Fclean.RingMyBell_ULTRA.webm",
+    "jmcs://jd-contents/RingMyBell/RingMyBell_MID.webm": "https://cdn.glitch.com/987fcfcc-18ca-4bb2-8005-77d9754b14a6%2Fclean.RingMyBell_MID.webm",
+    "jmcs://jd-contents/RingMyBell/RingMyBell_LOW.webm": "https://cdn.glitch.com/987fcfcc-18ca-4bb2-8005-77d9754b14a6%2Fclean.RingMyBell_LOW.webm",
+    "jmcs://jd-contents/RingMyBell/RingMyBell_HIGH.webm": "https://cdn.glitch.com/987fcfcc-18ca-4bb2-8005-77d9754b14a6%2Fclean.RingMyBell_HIGH.webm",
+    "jmcs://jd-contents/RingMyBell/RingMyBell.ogg": "https://cdn.glitch.com/987fcfcc-18ca-4bb2-8005-77d9754b14a6%2FRingMyBell_audio.ogg"
+  }
+}

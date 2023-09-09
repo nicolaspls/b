@@ -1,0 +1,36 @@
+{
+	"__class": "JD_CarouselContent",
+	"categories": [{
+		"__class": "Category",
+		"title": "Upsell Videos",
+		"act": "ui_carousel",
+		"isc": "grp_row",
+		"items": [{
+			"__class": "Item",
+			"isc": "grp_cover",
+			"act": "ui_component_base",
+			"components": [{
+				"__class": "JD_CarouselContentComponent_Song",
+				"mapName": "FireOnTheDancefloor"
+			}, {
+				"__class": "JD_CarouselContentComponent_Metadata",
+				"recommendationSource": "4"
+			}],
+			"actionList": "_None"
+		}]
+	}],
+	"actionLists": {
+		"upsell": {
+			"__class": "ActionList",
+			"actions": [{
+				"__class": "Action",
+				"bannerTheme": "DEFAULT",
+				"bannerType": "song",
+				"title": "Subscribe",
+				"type": "display-upsell"
+			}],
+			"itemType": "map"
+		}
+	},
+	"songItemLists": {}
+}

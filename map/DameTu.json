@@ -1,0 +1,16 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 280634,
+    "urls": {
+        "jmcs://jd-contents/DameTu/DameTu_ULTRA.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FDameTu_ULTRA.webm?v=1608758994390",
+        "jmcs://jd-contents/DameTu/DameTu_ULTRA.hd.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FDameTu_ULTRA.webm?v=1608758994390",
+        "jmcs://jd-contents/DameTu/DameTu_MID.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FDameTu_MID.webm?v=1608758919419",
+        "jmcs://jd-contents/DameTu/DameTu_MID.hd.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FDameTu_MID.webm?v=1608758919419",
+        "jmcs://jd-contents/DameTu/DameTu_LOW.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FDameTu_LOW.webm?v=1608758881920",
+        "jmcs://jd-contents/DameTu/DameTu_LOW.hd.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FDameTu_LOW.webm?v=1608758881920",
+        "jmcs://jd-contents/DameTu/DameTu_HIGH.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FDameTu_HIGH.webm?v=1608758955390",
+        "jmcs://jd-contents/DameTu/DameTu_HIGH.hd.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FDameTu_HIGH.webm?v=1608758955390",
+        "jmcs://jd-contents/DameTu/DameTu.ogg": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FDameTu.ogg?v=1608758866426"
+    }
+}

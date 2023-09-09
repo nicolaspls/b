@@ -1,0 +1,16 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300,
+  "changelist": 564520,
+  "urls": {
+    "jmcs://jd-contents/BoomClapDLC/BoomClapDLC_ULTRA.webm": "https://cdn.glitch.com/a105e60c-c9c3-44cf-9cf0-6b9553c1bee4%2Fboomclapultra.webm?v=1608930453473",
+    "jmcs://jd-contents/BoomClapDLC/BoomClapDLC_MID.webm": "https://cdn.glitch.com/a105e60c-c9c3-44cf-9cf0-6b9553c1bee4%2Fboomclapmid.webm?v=1608928951011",
+    "jmcs://jd-contents/BoomClapDLC/BoomClapDLC_LOW.webm": "https://cdn.glitch.com/a105e60c-c9c3-44cf-9cf0-6b9553c1bee4%2Fboomclaplow.webm?v=1608928725706",
+    "jmcs://jd-contents/BoomClapDLC/BoomClapDLC_HIGH.webm": "https://cdn.glitch.com/a105e60c-c9c3-44cf-9cf0-6b9553c1bee4%2Fboomclaphigh.webm?v=1608929471042",
+    "jmcs://jd-contents/BoomClapDLC/BoomClapDLC_ULTRA.hd.webm": "https://cdn.glitch.com/a105e60c-c9c3-44cf-9cf0-6b9553c1bee4%2Fboomclapultrahd.webm?v=1608929825644",
+    "jmcs://jd-contents/BoomClapDLC/BoomClapDLC_MID.hd.webm": "https://cdn.glitch.com/a105e60c-c9c3-44cf-9cf0-6b9553c1bee4%2Fboomclapmidhd.webm?v=1608929022281",
+    "jmcs://jd-contents/BoomClapDLC/BoomClapDLC_LOW.hd.webm": "https://cdn.glitch.com/a105e60c-c9c3-44cf-9cf0-6b9553c1bee4%2Fboomclaplowhd.webm?v=1608928797744",
+    "jmcs://jd-contents/BoomClapDLC/BoomClapDLC_HIGH.hd.webm": "https://cdn.glitch.com/a105e60c-c9c3-44cf-9cf0-6b9553c1bee4%2Fboomclaphighhd.webm?v=1608929561991",
+    "jmcs://jd-contents/BoomClapDLC/BoomClapDLC.ogg": "https://cdn.glitch.com/a105e60c-c9c3-44cf-9cf0-6b9553c1bee4%2F531f0730beac00f05e3ceb5b70a6cea9.ogg?v=1608928332262"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300000,
+  "changelist": 300,
+  "urls": {
+    "jmcs://jd-contents/BabyGirl/BabyGirl_ULTRA.webm": "https://cdn.glitch.com/c6807563-9703-4452-bd7b-b06e822ec772%2FBabyGirl_ULTRA.webm?v=1617212575392",
+    "jmcs://jd-contents/BabyGirl/BabyGirl_HIGH.webm": "https://cdn.glitch.com/c6807563-9703-4452-bd7b-b06e822ec772%2FBabyGirl_HIGH.webm?v=1617211409592",
+    "jmcs://jd-contents/BabyGirl/BabyGirl_MID.webm": "https://cdn.glitch.com/c6807563-9703-4452-bd7b-b06e822ec772%2FBabyGirl_MID.webm?v=1617209656757",
+    "jmcs://jd-contents/BabyGirl/BabyGirl_LOW.webm": "https://cdn.glitch.com/c6807563-9703-4452-bd7b-b06e822ec772%2FBabyGirl_LOW.webm?v=1617208595362",
+    "jmcs://jd-contents/BabyGirl/BabyGirl.ogg": "https://cdn.glitch.com/c6807563-9703-4452-bd7b-b06e822ec772%2FBabyGirl.ogg?v=1617212845508"
+  }
+}

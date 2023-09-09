@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300,
+  "changelist": 480634,
+  "urls": {
+    "jmcs://jd-contents/IWillSurviveOSC/IWillSurviveOSC_ULTRA.webm": "https://cdn.glitch.com/987fcfcc-18ca-4bb2-8005-77d9754b14a6%2FIWillSurviveOSC_ULTRA.webm",
+    "jmcs://jd-contents/IWillSurviveOSC/IWillSurviveOSC_MID.webm": "https://cdn.glitch.com/987fcfcc-18ca-4bb2-8005-77d9754b14a6%2FIWillSurviveOSC_MID.webm",
+    "jmcs://jd-contents/IWillSurviveOSC/IWillSurviveOSC_LOW.webm": "https://cdn.glitch.com/987fcfcc-18ca-4bb2-8005-77d9754b14a6%2FIWillSurviveOSC_LOW.webm",
+    "jmcs://jd-contents/IWillSurviveOSC/IWillSurviveOSC_HIGH.webm": "https://cdn.glitch.com/987fcfcc-18ca-4bb2-8005-77d9754b14a6%2FIWillSurviveOSC_HIGH.webm",
+    "jmcs://jd-contents/IWillSurviveOSC/IWillSurviveOSC.ogg": "https://cdn.glitch.com/987fcfcc-18ca-4bb2-8005-77d9754b14a6%2FIWillSurviveOSC.ogg"
+  }
+}

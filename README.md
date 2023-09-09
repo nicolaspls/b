@@ -1,0 +1,1 @@
+hi so in v1/configuration and v2/entities put the name o the live app ty.

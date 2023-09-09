@@ -1,0 +1,16 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 280634,
+    "urls": {
+        "jmcs://jd-contents/KIDSAccidentallyInLove/KIDSAccidentallyInLove_ULTRA.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FKIDSAccidentallyInLove_High.webm?v=1609881537472",
+        "jmcs://jd-contents/KIDSAccidentallyInLove/KIDSAccidentallyInLove_ULTRA.hd.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FKIDSAccidentallyInLove_High.webm?v=1609881537472",
+        "jmcs://jd-contents/KIDSAccidentallyInLove/KIDSAccidentallyInLove_MID.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FKIDSAccidentallyInLove_Mid.webm?v=1609881513394",
+        "jmcs://jd-contents/KIDSAccidentallyInLove/KIDSAccidentallyInLove_MID.hd.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FKIDSAccidentallyInLove_Mid.webm?v=1609881513394",
+        "jmcs://jd-contents/KIDSAccidentallyInLove/KIDSAccidentallyInLove_LOW.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FKIDSAccidentallyInLove_Low.webm?v=1609881479750",
+        "jmcs://jd-contents/KIDSAccidentallyInLove/KIDSAccidentallyInLove_LOW.hd.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FKIDSAccidentallyInLove_Low.webm?v=1609881479750",
+        "jmcs://jd-contents/KIDSAccidentallyInLove/KIDSAccidentallyInLove_HIGH.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FKIDSAccidentallyInLove_High.webm?v=1609881537472",
+        "jmcs://jd-contents/KIDSAccidentallyInLove/KIDSAccidentallyInLove_HIGH.hd.webm": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FKIDSAccidentallyInLove_High.webm?v=1609881537472",
+        "jmcs://jd-contents/KIDSAccidentallyInLove/KIDSAccidentallyInLove.ogg": "https://cdn.glitch.com/a34690a7-28a9-41f2-b75c-eb3501ba1fdd%2FKIDSAccidentallyInLove.ogg?v=1609881475534"
+    }
+}

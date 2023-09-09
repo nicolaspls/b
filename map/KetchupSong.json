@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300000,
+  "changelist": 300,
+  "urls": {
+    "jmcs://jd-contents/KetchupSong/KetchupSong_ULTRA.webm": "https://cdn.glitch.com/c6807563-9703-4452-bd7b-b06e822ec772%2FKetchupSong_ULTRA.webm?v=1617140287330",
+    "jmcs://jd-contents/KetchupSong/KetchupSong_HIGH.webm": "https://cdn.glitch.com/c6807563-9703-4452-bd7b-b06e822ec772%2FKetchupSong_HIGH.webm?v=1617139954369",
+    "jmcs://jd-contents/KetchupSong/KetchupSong_MID.webm": "https://cdn.glitch.com/c6807563-9703-4452-bd7b-b06e822ec772%2FKetchupSong_mid.webm?v=1617139690058",
+    "jmcs://jd-contents/KetchupSong/KetchupSong_LOW.webm": "https://cdn.glitch.com/c6807563-9703-4452-bd7b-b06e822ec772%2FKetchupSong_LOW.webm?v=1617139229692",
+    "jmcs://jd-contents/KetchupSong/KetchupSong.ogg": "https://cdn.glitch.com/c6807563-9703-4452-bd7b-b06e822ec772%2FKetchupSong.ogg?v=1617139429716"
+  }
+}

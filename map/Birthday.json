@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300000,
+  "changelist": 300,
+  "urls": {
+    "jmcs://jd-contents/Birthday/Birthday_ULTRA.webm": "https://cdn.glitch.com/c6807563-9703-4452-bd7b-b06e822ec772%2FBirthday_ULTRA.webm?v=1617212752325",
+    "jmcs://jd-contents/Birthday/Birthday_HIGH.webm": "https://cdn.glitch.com/c6807563-9703-4452-bd7b-b06e822ec772%2FBirthday_HIGH.webm?v=1617211188286",
+    "jmcs://jd-contents/Birthday/Birthday_MID.webm": "https://cdn.glitch.com/c6807563-9703-4452-bd7b-b06e822ec772%2FBirthday_MID.webm?v=1617209640045",
+    "jmcs://jd-contents/Birthday/Birthday_LOW.webm": "https://cdn.glitch.com/c6807563-9703-4452-bd7b-b06e822ec772%2FBirthday_LOW.webm?v=1617208603366",
+    "jmcs://jd-contents/Birthday/Birthday.ogg": "https://cdn.glitch.com/c6807563-9703-4452-bd7b-b06e822ec772%2FBirthday.ogg?v=1617212832420"
+  }
+}

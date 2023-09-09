@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300000,
+  "changelist": 300,
+  "urls": {
+    "jmcs://jd-contents/Airplanes/Airplanes_ULTRA.webm": "https://cdn.glitch.com/c6807563-9703-4452-bd7b-b06e822ec772%2FAirplanes_ULTRA.webm?v=1617140273338",
+    "jmcs://jd-contents/Airplanes/Airplanes_HIGH.webm": "https://cdn.glitch.com/c6807563-9703-4452-bd7b-b06e822ec772%2FAirplanes_HIGH.webm?v=1617139814392",
+    "jmcs://jd-contents/Airplanes/Airplanes_MID.webm": "https://cdn.glitch.com/c6807563-9703-4452-bd7b-b06e822ec772%2FAirplanes_MID.webm?v=1617139673654",
+    "jmcs://jd-contents/Airplanes/Airplanes_LOW.webm": "https://cdn.glitch.com/c6807563-9703-4452-bd7b-b06e822ec772%2FAirplanes_LOW.webm?v=1617139214651",
+    "jmcs://jd-contents/Airplanes/Airplanes.ogg": "https://cdn.glitch.com/c6807563-9703-4452-bd7b-b06e822ec772%2FAirplanes.ogg?v=1617139422239"
+  }
+}

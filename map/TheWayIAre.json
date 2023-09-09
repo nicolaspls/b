@@ -1,0 +1,12 @@
+{
+    "__class": "ContentAuthorizationEntry",
+    "duration": 300,
+    "changelist": 564656,
+    "urls": {
+        "jmcs://jd-contents/TheWayIAre/TheWayIAre_ULTRA.webm": "https://cdn.glitch.com/c6807563-9703-4452-bd7b-b06e822ec772%2FTheWayIAre_ULTRA.webm?v=1619098791318",
+        "jmcs://jd-contents/TheWayIAre/TheWayIAre_MID.webm": "https://cdn.glitch.com/c6807563-9703-4452-bd7b-b06e822ec772%2FTheWayIAre_MID.webm?v=1619098710318",
+        "jmcs://jd-contents/TheWayIAre/TheWayIAre_LOW.webm": "https://cdn.glitch.com/c6807563-9703-4452-bd7b-b06e822ec772%2FTheWayIAre_LOW.webm?v=1619098647651",
+        "jmcs://jd-contents/TheWayIAre/TheWayIAre_HIGH.webm": "https://cdn.glitch.com/c6807563-9703-4452-bd7b-b06e822ec772%2FTheWayIAre_HIGH.webm?v=1619098741476",
+        "jmcs://jd-contents/TheWayIAre/TheWayIAre.ogg": "https://cdn.glitch.com/c6807563-9703-4452-bd7b-b06e822ec772%2FTheWayIAre.ogg?v=1619098643375"
+    }
+}

@@ -1,0 +1,12 @@
+{
+  "__class": "ContentAuthorizationEntry",
+  "duration": 300000,
+  "changelist": 300,
+  "urls": {
+    "jmcs://jd-contents/ChickenPayback/ChickenPayback_ULTRA.webm": "https://cdn.glitch.com/c6807563-9703-4452-bd7b-b06e822ec772%2FChickenPayback_ULTRA.webm?v=1617325581457",
+    "jmcs://jd-contents/ChickenPayback/ChickenPayback_HIGH.webm": "https://cdn.glitch.com/c6807563-9703-4452-bd7b-b06e822ec772%2FChickenPayback_HIGH.webm?v=1617325104540",
+    "jmcs://jd-contents/ChickenPayback/ChickenPayback_MID.webm": "https://cdn.glitch.com/c6807563-9703-4452-bd7b-b06e822ec772%2FChickenPayback_MID.webm?v=1617324851824",
+    "jmcs://jd-contents/ChickenPayback/ChickenPayback_LOW.webm": "https://cdn.glitch.com/c6807563-9703-4452-bd7b-b06e822ec772%2FChickenPayback_LOW.webm?v=1617324607834",
+    "jmcs://jd-contents/ChickenPayback/ChickenPayback.ogg": "https://cdn.glitch.com/c6807563-9703-4452-bd7b-b06e822ec772%2FChickenPayback.ogg?v=1617324252980"
+  }
+}
