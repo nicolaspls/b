@@ -1,0 +1,78 @@
+import UIKit
+import AVKit
+import Photos
+
+class ViewController: UIViewController {
+
+    @IBOutlet weak var videoPlayerView: UIView!
+    @IBOutlet weak var timeLabel: UILabel!
+    @IBOutlet weak var captureButton: UIButton!
+    @IBOutlet weak var outputTextView: UITextView!
+    @IBOutlet weak var downloadButton: UIButton!
+    
+    let videoFilePicker = UIImagePickerController()
+    var player: AVPlayer?
+    var capturedTimes = [[String: Any]]()
+    
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        setupVideoPlayer()
+        setupVideoFilePicker()
+    }
+    
+    func setupVideoPlayer() {
+        // Setup video player as before
+    }
+    
+    func updateTimeDisplay(_ time: CMTime) {
+        // Update time display as before
+    }
+    
+    func setupVideoFilePicker() {
+        videoFilePicker.delegate = self
+        videoFilePicker.sourceType = .savedPhotosAlbum
+        videoFilePicker.mediaTypes = ["public.movie"]
+    }
+    
+    override func viewDidAppear(_ animated: Bool) {
+        super.viewDidAppear(animated)
+        checkPhotoLibraryPermission()
+    }
+    
+    func checkPhotoLibraryPermission() {
+        let status = PHPhotoLibrary.authorizationStatus()
+        switch status {
+        case .authorized:
+            videoFilePicker.view.isUserInteractionEnabled = true
+        case .notDetermined:
+            PHPhotoLibrary.requestAuthorization { [weak self] status in
+                DispatchQueue.main.async {
+                    self?.handlePhotoLibraryAuthorization(status)
+                }
+            }
+        default:
+            handlePhotoLibraryAuthorization(status)
+        }
+    }
+    
+    func handlePhotoLibraryAuthorization(_ status: PHAuthorizationStatus) {
+        switch status {
+        case .authorized:
+            videoFilePicker.view.isUserInteractionEnabled = true
+        case .denied, .restricted:
+            // Display an alert informing the user about the need to grant access to the photo library
+            let alert = UIAlertController(title: "Photo Library Access Required", message: "Please grant access to your photo library in the device settings to select a video.", preferredStyle: .alert)
+            alert.addAction(UIAlertAction(title: "OK", style: .default, handler: nil))
+            present(alert, animated: true, completion: nil)
+        default:
+            break
+        }
+    }
+    
+    @IBAction func selectVideoFile(_ sender: UIButton) {
+        present(videoFilePicker, animated: true, completion: nil)
+    }
+    
+    // Rest of the code remains the same...
+    // ...
+}
