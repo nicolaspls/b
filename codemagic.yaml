@@ -3,7 +3,7 @@ import AVKit
 import Photos
 
 class ViewController: UIViewController {
-
+    
     @IBOutlet weak var videoPlayerView: UIView!
     @IBOutlet weak var timeLabel: UILabel!
     @IBOutlet weak var captureButton: UIButton!
@@ -21,11 +21,21 @@ class ViewController: UIViewController {
     }
     
     func setupVideoPlayer() {
-        // Setup video player as before
+        let videoURL = // URL of the video file
+        
+        player = AVPlayer(url: videoURL)
+        let playerLayer = AVPlayerLayer(player: player)
+        playerLayer.frame = videoPlayerView.bounds
+        videoPlayerView.layer.addSublayer(playerLayer)
+        
+        player?.addPeriodicTimeObserver(forInterval: CMTime(seconds: 0.1, preferredTimescale: CMTimeScale(NSEC_PER_SEC)), queue: .main) { [weak self] time in
+            self?.updateTimeDisplay(time)
+        }
     }
     
     func updateTimeDisplay(_ time: CMTime) {
-        // Update time display as before
+        let currentTime = Int(time.seconds * 1000)
+        timeLabel.text = "\(currentTime)"
     }
     
     func setupVideoFilePicker() {
@@ -60,7 +70,6 @@ class ViewController: UIViewController {
         case .authorized:
             videoFilePicker.view.isUserInteractionEnabled = true
         case .denied, .restricted:
-            // Display an alert informing the user about the need to grant access to the photo library
             let alert = UIAlertController(title: "Photo Library Access Required", message: "Please grant access to your photo library in the device settings to select a video.", preferredStyle: .alert)
             alert.addAction(UIAlertAction(title: "OK", style: .default, handler: nil))
             present(alert, animated: true, completion: nil)
@@ -73,6 +82,56 @@ class ViewController: UIViewController {
         present(videoFilePicker, animated: true, completion: nil)
     }
     
-    // Rest of the code remains the same...
-    // ...
+    @IBAction func captureTime(_ sender: UIButton) {
+        guard let player = player else { return }
+        let currentTime = Int(player.currentTime().seconds * 1000)
+        
+        let capturedTime: [String: Any] = [
+            "time": currentTime,
+            "duration": 500,
+            "name": ""
+        ]
+        capturedTimes.append(capturedTime)
+        
+        outputTextView.text = capturedTimes.jsonString(prettyPrinted: true)
+        downloadButton.isEnabled = true
+    }
+    
+    @IBAction func exportJSON(_ sender: UIButton) {
+        let json = capturedTimes.jsonString(prettyPrinted: true)
+        let data = Data(json.utf8)
+        
+        let fileManager = FileManager.default
+        let documentsURL = fileManager.urls(for: .documentDirectory, in: .userDomainMask).first!
+        let fileURL = documentsURL.appendingPathComponent("captured_times.json")
+        
+        do {
+            try data.write(to: fileURL)
+            print("File saved: \(fileURL.absoluteString)")
+        } catch {
+            print("Error saving file: \(error)")
+        }
+    }
+}
+
+extension ViewController: UIImagePickerControllerDelegate, UINavigationControllerDelegate {
+    func imagePickerController(_ picker: UIImagePickerController, didFinishPickingMediaWithInfo info: [UIImagePickerController.InfoKey : Any]) {
+        dismiss(animated: true, completion: nil)
+        
+        guard let videoURL = info[.mediaURL] as? URL else {
+            print("Error retrieving video URL")
+            return
+        }
+        
+        player = AVPlayer(url: videoURL)
+        let playerLayer = AVPlayerLayer(player: player)
+        playerLayer.frame = videoPlayerView.bounds
+        videoPlayerView.layer.addSublayer(playerLayer)
+        
+        player?.addPeriodicTimeObserver(forInterval: CMTime(seconds: 0.1, preferredTimescale: CMTimeScale(NSEC_PER_SEC)), queue: .main) { [weak self] time in
+            self?.updateTimeDisplay(time)
+        }
+        
+        captureButton.isEnabled =true
+    }
 }
