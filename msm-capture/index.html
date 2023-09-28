@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Just Dance Moves Time Capturer</title>
+  <style>
+    /* CSS to style the video player and GUI */
+    body {
+      font-family: 'Arial', sans-serif;
+      background-color: #f1f1f1;
+    }
+
+    .container {
+      max-width: 600px;
+      margin: 0 auto;
+      padding: 20px;
+      background-color: #fff;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    h1 {
+      text-align: center;
+      color: #333;
+    }
+
+    #video-player {
+      width: 100%;
+      margin-bottom: 20px;
+    }
+
+    .time-display {
+      text-align: center;
+      font-size: 24px;
+      color: #333;
+      padding: 10px;
+      background-color: #f9f9f9;
+      border: 1px solid #ccc;
+      margin-bottom: 20px;
+    }
+
+    .capture-button {
+      background-color: #4CAF50;
+      color: white;
+      border: none;
+      padding: 10px 20px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      cursor: pointer;
+      transition-duration: 0.4s;
+    }
+
+    .capture-button:hover {
+      background-color: #45a049;
+    }
+
+    .output-box {
+      border: 1px solid #ccc;
+      padding: 10px;
+      margin-bottom: 20px;
+      background-color: #f9f9f9;
+      color: #333;
+      font-size: 14px;
+      max-height: 200px;
+      overflow-y: auto;
+    }
+
+    .download-button {
+      background-color: #008CBA;
+      color: white;
+      border: none;
+      padding: 10px 20px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      cursor: pointer;
+      transition-duration: 0.4s;
+    }
+
+    .download-button:hover {
+      background-color: #006CBA;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Just Dance Moves Time Capturer</h1>
+    <input type="file" id="video-file-input" accept="video/*">
+    <br>
+    <video id="video-player" controls playsinline webkit-playsinline></video>
+    <div id="time-display" class="time-display">000000</div>
+    <button id="capture-button" class="capture-button" disabled>Capture Time</button>
+    <div id="output-box" class="output-box"></div>
+    <button id="download-button" class="download-button" disabled>Download JSON</button>
+  </div>
+
+  <script>
+    // JavaScript code to handle video playback, time display, and JSON export
+
+    // Get references to the HTML elements
+    const videoPlayer = document.getElementById('video-player');
+    const videoFileInput = document.getElementById('video-file-input');
+    const timeDisplay = document.getElementById('time-display');
+    const captureButton = document.getElementById('capture-button');
+    const outputBox = document.getElementById('output-box');
+    const downloadButton = document.getElementById('download-button');
+
+    // Variable to store the captured times
+    let capturedTimes = [];
+
+    // Function to handle video file selection
+    function handleVideoFileSelect(event) {
+      const file = event.target.files[0];
+      const fileURL = URL.createObjectURL(file);
+      videoPlayer.src = fileURL;
+      captureButton.disabled = false;
+    }
+
+    // Function to update the time display
+    function updateTimeDisplay() {
+      const currentTime = Math.floor(videoPlayer.currentTime * 1000);
+      timeDisplay.textContent = currentTime;
+    }
+
+    // Function to capture the current millisecond value and add it to the capturedTimes array
+    function captureTime() {
+      const currentTime = Math.floor(videoPlayer.currentTime * 1000);
+      const name = prompt("Enter a name for this move:", ""); // Prompt the user for the name value
+      capturedTimes.push({ name: name, time: currentTime, duration: 500 }); // Add the name value to the capturedTimes array
+      outputBox.textContent = JSON.stringify(capturedTimes, null, 2);
+      downloadButton.disabled = false;
+    }
+
+    // Function to export the capturedTimes array as a JSON file
+    function exportJSON() {
+      const json = JSON.stringify(capturedTimes, null, 2);
+      const blob = new Blob([json], { type: 'application/json' });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = 'captured_times.json';
+      a.click();
+    }
+
+    // Event listeners
+    videoFileInput.addEventListener('change', handleVideoFileSelect);
+    videoPlayer.addEventListener('timeupdate', updateTimeDisplay);
+    captureButton.addEventListener('click', captureTime);
+    downloadButton.addEventListener('click', exportJSON);
+  </script>
+</body>
+</html>
